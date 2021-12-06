@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\AR-VE_M\bin\Debug\AR-VE_M.exe.config
+C:\Users\User\source\repos\AR-VE_M\bin\Debug\AR-VE_M.exe
+C:\Users\User\source\repos\AR-VE_M\bin\Debug\AR-VE_M.pdb
+C:\Users\User\source\repos\AR-VE_M\obj\Debug\AR-VE_M.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AR-VE_M\obj\Debug\AR-VE_M.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AR-VE_M\obj\Debug\AR-VE_M.exe
+C:\Users\User\source\repos\AR-VE_M\obj\Debug\AR-VE_M.pdb
